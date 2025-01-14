@@ -12,8 +12,8 @@ try:
 except:
     os.system('pip install telebot')
     os.sytem('pip install pystyle')
-API_TOKEN_BOT = '' #Change To Your Bot Token
-USER_ADMIN_BOT = '' #Change To Your Telegram User
+API_TOKEN_BOT = '7406921761:AAEmwFjLCkxkfT3WsRVsmfk0fdcbhxRmGz8' #Change To Your Bot Token
+USER_ADMIN_BOT = '6438680420' #Change To Your Telegram User
 bot = telebot.TeleBot(API_TOKEN_BOT)
 banner = ("""
 ██╗  ██╗██╗   ██╗███╗   ██╗    ████████╗ ██████╗  ██████╗ ██╗     
